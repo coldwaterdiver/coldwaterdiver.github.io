@@ -77,10 +77,10 @@ author:
     - label: "TikTok"
       icon: "fa-brands fa-tiktok"
       url: "https://www.tiktok.com/@cold.water.diver/"
-    - label: "Instagram for Baltic Sea Art"
+    - label: "Baltic Sea Art"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/baltic.sea.art/"
-    - label: "Website for Baltic Sea Art"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.balticseaart.myshopify.com/"
 
