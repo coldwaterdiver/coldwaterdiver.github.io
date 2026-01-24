@@ -21,6 +21,6 @@ I have a Finnish professional qualification in scientific diving and have worked
 ---
 
 ![BSA](../assets/images/BSA2.png)
-*The website of Baltic Sea Art [BSA](https://balticseaart.myshopify.com)*
+*The website of Baltic Sea Art [Link to webshop](https://balticseaart.myshopify.com)*
 
 In 2025 I started a small print-on-demand brand called Baltic Sea Art as I was searching new ways to introduce the beauty and importance of the Baltic Sea to the public and engage in conservation. I draw different species of the Baltic Sea and design products with them. In the website I tell about the species and the state of the Baltic Sea in general. Buying from Baltic Sea Art people can participate in conservation as 25 % of profit goes to Baltic Sea conservation efforts of Baltic Sea Action Group. 
