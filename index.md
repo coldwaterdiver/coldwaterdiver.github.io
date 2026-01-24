@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# PhD Research
 
 ![study area](../assets/images/satellite.jpeg)
 *My study area in the Archipelago Sea with a ferry arriving from Turku on the right side of the image.*
