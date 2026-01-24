@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-![Me diving](../assets/images/me1.JPG)
+![Me diving](../assets/images/me5.jpg)
 
 # Educational and professional background
 
