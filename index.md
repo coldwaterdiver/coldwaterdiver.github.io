@@ -11,10 +11,14 @@ author_profile: true
 
 I am a PhD candidate in marine biology at Åbo Akademi University. My research focuses on the effects of ship-traffic–induced physical disturbance on coastal habitat forming macroalgae in the Baltic Sea. 
 
+---
+
 ![diver](../assets/images/me1.JPG)
 *I love diving and the underwater world!*
 
 I have a Finnish professional qualification in scientific diving and have worked at the sea doing underwater inventories every summer since 2019 until the start of my PhD when the scope changed into underwater data collection for my research. 
+
+---
 
 ![BSA](../assets/images/BSA2.png)
 *The website of Baltic Sea Art*
