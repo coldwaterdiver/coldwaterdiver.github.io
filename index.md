@@ -22,7 +22,8 @@ I have a Finnish professional qualification in scientific diving and have worked
 
 ![BSA](../assets/images/BSA2.png)
 
-<iframe src="https://esimerkki.com](https://balticseaart.myshopify.com" width="800" height="600" style="border:1px solid #ccc;"></iframe>
+
+<iframe src="https://balticseaart.myshopify.com" width="800" height="600" style="border:1px solid #ccc;"></iframe>
 
 *The website of Baltic Sea Art*
 
