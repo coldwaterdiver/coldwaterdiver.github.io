@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ![study area](../assets/images/satellite.jpeg)
-*Our study area in the Archipelago Sea with a ferry arriving from Turku on the right side of the image.*
+*My study area in the Archipelago Sea with a ferry arriving from Turku on the right side of the image.*
 
 I am a PhD candidate in marine biology at Åbo Akademi University. My research focuses on the effects of ship-traffic–induced physical disturbance on coastal habitat forming macroalgae in the Baltic Sea. 
 
