@@ -14,4 +14,6 @@ I am a PhD candidate in marine biology at Åbo Akademi University. My research f
 
 I have a Finnish professional qualification in scientific diving and have worked at the sea doing underwater inventories every summer since 2019 until the start of my PhD when the scope changed into underwater data collection for my research. 
 
+![BSA](../assets/images/BSA2.png)
+
 In 2025 I started a small print-on-demand brand called Baltic Sea Art as I was searching new ways to introduce the beauty and importance of the Baltic Sea to the public and engage in conservation. Buying from Baltic Sea Art people can participate in conservation as 25 % of profit goes to Baltic Sea conservation efforts of Baltic Sea Action Group. 
