@@ -29,7 +29,12 @@ We collected algae from our sites and in next two days we had to put them back c
 We did transect diving to see in what depth are the shallow and deep limits of a continuous bladderwrack belt as well as optimum depth in our impact and control sites. I also recorded information about sedimentation, loose laying filamentous algae, other algae species and seabed substrates. 
 
 
-<iframe src="https://www.youtube.com/shorts/VOd_VrYR_g0" title="YouTube video player" frameborder="0" allow="accelometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/VOd_VrYR_g0?autoplay=1&mute=1&loop=1&playlist=VOd_VrYR_g0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
 </iframe>
 
 
