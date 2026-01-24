@@ -1,6 +1,16 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
+permalink: /about/
+title: "About"
 ---
+[Me dinving](me1.JPG)
+
+# Who am I?
+I am a PhD candidate in marine ecology at Åbo Akademi University. My research focuses on the effects of ship-traffic–induced physical disturbance on coastal habitat forming macroalgae in the Baltic Sea. I have a Finnish professional qualification in scientific diving and have worked at the sea doing underwater inventories every summer since 2019 until the start of my PhD when the scope changed into underwater data collection for my research. In 2025 I started a small print-on-demand brand called Baltic Sea Art as I was searching new ways to introduce the beauty and importance of the Baltic Sea to the public and engage in conservation. Buying from Baltic Sea Art people can participate in conservation as 25 % of profit goes to Baltic Sea conservation efforts of Baltic Sea Action Group. 
+
+# Educational and professional background
+## Concurrent university studies, annual fieldwork at sea, and one year of scientific diving training
+I studied physical geography at the University of Helsinki, focusing on marine areas, geoinformatics, and remote sensing. My Bachelor's thesis focused on assessing the efficiency of remote sensing methods for mapping macroalgae growing underwater. During my Master's studies in 2019, I began conducting marine biodiversity inventories for Metsähallitus in the Bothnian Bay. In spring 2020, I started my Master's thesis at the Finnish Environment Institute (SYKE) using machine learning species distribution modelling to study future changes in the distribution of a key habitat-forming species in the Baltic Sea under different eutrophication and climate change scenarios. Following my work at SYKE, I continued conducting underwater inventories for Metsähallitus in the Gulf of Finland. In summer 2021, before graduation, I worked at Alleco with similar tasks. In 2022, while completing my Master’s thesis, I began a year-long vocational qualification program in Luksia to become a professional scientific diver. I completed my thesis during this training and graduated twice in 2022: first with a Master of Science and later as a certified Scientific Diver.
+
+## Postgraduate experience: marine environmental consulting, scientific diving and PhD research
+After graduation, I started working as an environmental expert at AFRY. My main tasks included writing environmental impact assessments for offshore wind power projects, focusing on impacts on underwater habitats. I also worked as a coordinator on an offshore wind power project EIA and as a stream lead in a project commissioned by the Finnish Government (Valtioneuvosto), where we assessed the possibilities to increase offshore wind power in Finland efficiently and sustainably. During my time at AFRY, I also spent summers working as a scientific diver at Alleco. In 2025, I decided to pursue my long-term dream of working as a scientist in marine biology and started a PhD at Åbo Akademi University. I was awarded full funding for my own four-year PhD project on the impacts of offshore wind power on underwater habitats, as well as for a three-year PhD project on ship traffic effects. I chose to pursue the latter, which offered a larger collaborative research environment as part of the Digital Waters Flagship Consortium. My PhD has been an incredibly rewarding experience: spending a five-month field season living on an island in the Archipelago Sea, conducting hands-on marine research, honing my coding and data analysis skills, and generating exciting results, all while contributing to work that is ecologically important. 
+<img width="1480" height="1256" alt="image" src="https://github.com/user-attachments/assets/2c1f8753-9522-48e2-b971-f9c5c1c77847" />
