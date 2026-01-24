@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 ---
 
+## PhD Research
+
 ![study area](../assets/images/satellite.jpeg)
 *My study area in the Archipelago Sea with a ferry arriving from Turku on the right side of the image.*
 
@@ -13,12 +15,16 @@ I am a PhD candidate in marine biology at Åbo Akademi University. My research f
 
 ---
 
+## Scientific diving
+
 ![diver](../assets/images/me1.JPG)
 *I love diving and the underwater world!*
 
 I have a Finnish professional qualification in scientific diving and have worked at the sea doing underwater inventories every summer since 2019 until the start of my PhD when the scope changed into underwater data collection for my research. 
 
 ---
+
+## Baltic Sea Art
 
 ![BSA](../assets/images/BSA2.png)
 *The website of Baltic Sea Art [Link to webshop](https://balticseaart.myshopify.com)*
