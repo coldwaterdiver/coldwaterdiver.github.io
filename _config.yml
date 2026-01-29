@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marine Biology Research Portfolio
+title: Petra Saari – Marine Biology PhD Research Portfolio
 email: saaripetra@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  PhD research portfolio of Petra Saari, marine biologist at Åbo Akademi University.
+  Research focuses on ship-traffic–induced physical disturbance, coastal ecosystems,
+  and Baltic Sea macroalgae. 
+github_username: coldwaterdiver
 minimal_mistakes_skin: neon
 search: true
+url: "https://coldwaterdiver.github.io"
+baseurl: "" # tyhjä, koska tämä on user.github.io-sivu
+timezone: Europe/Helsinki
+google_site_verification: "MAGX8B8uki6wjb1P2WVVT_ElgdjgVRAb3NUrhtZEn2o"
 
 # Build settings
 markdown: kramdown
@@ -86,15 +89,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/coldwaterdiver/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/petrasaari/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/cold.water.diver/"
+    - label: "TikTok"
+      icon: "fa-brands fa-tiktok"
+      url: "https://www.tiktok.com/@cold.water.diver/"
 
 defaults:
   # _posts
