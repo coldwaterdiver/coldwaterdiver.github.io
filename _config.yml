@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Petra Saari"
   avatar : "/assets/images/me4.jpg"
-  avatar_size: 200
+  avatar_size: 300
   bio    : "PhD student in Environment and Marine Biology in Åbo Akademi University. My research focuses on the effects of ship-traffic–induced physical disturbance on coastal areas."
   links:
     - label: "Website"
