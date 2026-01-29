@@ -1,6 +1,6 @@
 ---
 permalink: /fieldwork/
-title: "Fieldwork - Petra Saari - Marine Biology PhD"
+title: "Fieldwork       Petra Saari        Marine Biology PhD"
 description: "Videos and documentation of Petra Saari's marine biology fieldwork in the Baltic Sea, focusing on the effects of ship-traffic-induced waves on coastal ecosystems."
 ---
 
