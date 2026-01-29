@@ -1,9 +1,9 @@
 ---
 permalink: /fieldwork/
-title: "Fieldwork – Petra Saari, Marine Biology PhD"
+title: "Fieldwork
+Petra Saari, Marine Biology PhD"
 description: "Videos and documentation of Petra Saari's marine biology fieldwork in the Baltic Sea, focusing on the effects of ship-traffic-induced waves on coastal ecosystems."
 ---
-## Here I show videos about how we did the field work for my PhD
 
 # How ferry waves affect reproductive effort of bladderwrack? 
 I study how ferry waves affect reproductive effort (investment in receptacles) of bladderwrack. The species requires periods of low water motion for gamete release, conditions that may be limited near shipping lanes. We collected samples of receptacles bearing algae and calculated the share of receptacles in relation to growth tips. In addition we took dry weight of receptacles and assessed sex ratio of randomly collected receptacles. 
