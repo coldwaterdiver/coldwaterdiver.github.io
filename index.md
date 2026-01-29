@@ -36,6 +36,6 @@ In 2025 I started a small print-on-demand brand called Baltic Sea Art as I was s
 Learn more about my background, education, and experience on the [About page](/about/).
 
 ## CV and Publications
-See my detailed [CV](/cv/) and a list of publications, including PhD research, environmental consulting, and scientific diving projects.
+See my detailed [CV](/cv/) and a list of publications, including PhD research and environmental consulting. 
 
 
