@@ -1,7 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: About – Petra Saari, Marine Biology PhD
+description: >-
+  Petra Saari is a marine biologist and PhD student at Åbo Akademi University. 
+  She has experience in underwater biodiversity inventories, scientific diving, 
+  marine environmental consulting, and research on the effects of ship traffic
+  on underwater habitats in the Baltic Sea.
 ---
+
 ![Me diving](../assets/images/me5.jpg)
 
 # Educational and professional background
