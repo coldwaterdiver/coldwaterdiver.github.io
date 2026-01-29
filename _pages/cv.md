@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 description: >-
   Petra Saari's curriculum vitae, including education, work experience, research funding, 
-  scientific diving training, and publications in marine biology and environmental projects.
+  scientific diving training, and publications in marine biology projects.
 layout: single
 ---
 ## Degrees
