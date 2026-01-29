@@ -1,0 +1,4 @@
+/* Piilottaa sivujen pääotsikot */
+.page-header, .page-title {
+    display: none;
+}
