@@ -1,9 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+title: Marine Biology Research Portfolio – Petra Saari, PhD Student
+description: >-
+  Welcome to Petra Saari's marine biology research portfolio. 
+  Explore ongoing research projects, fieldwork videos and results of PhD reserch of ship-traffic impacts on littoral environmets in the Baltic Sea. 
+layout: home
 author_profile: true
+permalink: /
 ---
 
 
@@ -29,3 +31,11 @@ I have a Finnish professional qualification in scientific diving and have worked
 *The website of Baltic Sea Art [Link to webshop](https://balticseaart.myshopify.com)*
 
 In 2025 I started a small print-on-demand brand called Baltic Sea Art as I was searching new ways to introduce the beauty and importance of the Baltic Sea to the public and engage in conservation. I draw different species of the Baltic Sea and design products with them. In the website I tell about the species and the state of the Baltic Sea in general. Buying from Baltic Sea Art people can participate in conservation as 25 % of profit goes to Baltic Sea conservation efforts of Baltic Sea Action Group. 
+
+## About Me
+Learn more about my background, education, and experience on the [About page](/about/).
+
+## CV and Publications
+See my detailed [CV](/cv/) and a list of publications, including PhD research, environmental consulting, and scientific diving projects.
+
+
